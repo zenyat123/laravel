@@ -1,0 +1,43 @@
+
+
+body
+{
+	background: #f8fafc;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+}
+
+a, 
+a:hover 
+{
+	list-style: none;
+	text-decoration: none;
+}
+
+.texto-primario
+{
+	color: #337ab7;
+}
+
+.login
+{
+	margin-top: 200px;
+}
+
+.espaciado-1
+{
+	height: 100px;
+}
+
+.espaciado-2
+{
+	height: 200px;
+}
+
+.espaciado-3
+{
+	height: 300px;
+}
+
